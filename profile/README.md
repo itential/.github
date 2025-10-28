@@ -1,4 +1,5 @@
 ## Itential
+
 Innovation is unlocked when we **Collaborate, Contribute, and Create** together. Here you can find open-source tools, ready to use community assets, _battle-tested_ collections used to deploy validated Itential architectures, and more.
 
 <p align="left">
@@ -11,6 +12,7 @@ Innovation is unlocked when we **Collaborate, Contribute, and Create** together.
 ---
 
 ## 🛠️ Open Source Ecosystem
+
 Explore our growing collection of open-source tools and integrations:
 
 | Repository | Description |
@@ -26,6 +28,7 @@ Explore our growing collection of open-source tools and integrations:
 ---
 
 ## 🤝 Contributing
+
 We welcome contributions from the community! Each repository contains specific contribution guidelines and code of conduct. Please review the individual repository documentation before submitting pull requests.
 
 For general inquiries about contributing to Itential open-source projects, contact us at [opensource@itential.com](mailto:opensource@itential.com).
@@ -33,6 +36,7 @@ For general inquiries about contributing to Itential open-source projects, conta
 ---
 
 ## 📄 License
+
 Our open-source projects are licensed under various licenses including Apache-2.0 and GPL-3.0. Please refer to individual repository LICENSE files for specific terms.
 
 ---
@@ -41,7 +45,7 @@ Our open-source projects are licensed under various licenses including Apache-2.
 
 **Unify your tools, teams, and environments with a platform built to streamline network and infrastructure operations at scale.**
 
-*Itential Platform | Accelerate. Standardize. Scale.*
+_Itential Platform | Accelerate. Standardize. Scale._
 
 [Blog](https://itential.com/blog) • [Learn More](https://itential.com) • [Careers](https://itential.com/careers)
 
